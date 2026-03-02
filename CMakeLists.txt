@@ -33,5 +33,4 @@ target_link_libraries(noru-compositor
         Qt6::Quick
         Qt6::Qml
         Qt6::WaylandCompositor
-        Qt6::QuickControls2
 )
