@@ -22,7 +22,8 @@ qt_add_qml_module(noru-compositor
     URI NCompositor
     VERSION 1.0
     QML_FILES
-        src/qml/main.qml
+        main.qml
+    PATH src/qml
     # RESOURCE_PREFIX "/"   # (optional explicit prefix instead of qt_policy)
 )
 
